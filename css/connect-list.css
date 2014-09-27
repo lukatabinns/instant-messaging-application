@@ -1,0 +1,62 @@
+@charset "utf-8";
+
+
+ul.chats-holder-ul{
+
+	list-style-type: none;
+	margin: 0px;
+	padding: 18px;
+	width: auto;
+	height: auto;
+	overflow: hidden;
+
+}
+
+
+
+/* users style */
+.con-wrapper{
+	margin: 0 auto;
+	height: 100%;
+	padding-left: auto;
+	padding-top:10px;
+	width:650px;
+
+}
+
+
+.chatWrapper{
+	width:300px;
+	text-align: center;
+	margin-left:-36px;
+}
+
+ul.con-holder-ul{
+	list-style-type: none;
+	padding: 5px 0 5px 0;
+	}
+
+.con-holder li{
+    margin:5px;
+    display: inline-block;
+}
+
+.fol-wrapper {
+	margin: 0 auto;
+	height: 100%;
+	width: 50px;
+	margin-top:-34px;
+	font-size:1.2em;  
+
+}
+
+.fol-page{
+	margin: 0 auto;
+	height: 100%;
+	width: 580px;
+	padding-bottom:5px;
+	font-size:1.5em; 
+	font-family:font-family: Verdana, Geneva, sans-serif;
+	
+}
+

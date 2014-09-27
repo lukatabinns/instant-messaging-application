@@ -1,0 +1,25 @@
+.thumb-wrapper{
+	margin-top:10px;
+	width:200px;
+	height:100%;
+	float:left;
+	text-align: center;
+	
+}
+
+.uname1{
+	color:#00CCCC;
+	font-size: 14px;
+	font-family: Georgia, Times, serif;
+	padding-left:130px;
+	margin-top:-50px;
+}
+
+.unprofile2{
+	color:#000;
+	font-size: 12px;
+	font-family: Verdana, Geneva, sans-serif;
+	padding-left:130px;
+	margin-top:-40px;
+
+}
